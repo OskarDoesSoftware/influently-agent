@@ -6,7 +6,7 @@
     {
       "name": "influently",
       "source": "./",
-      "description": "Skill and MCP server for Influently Workspaces, connected accounts, contacts and audit log",
+      "description": "Skill and MCP server for Influently Workspaces, connected accounts, contacts, drafts and audit log",
       "category": "productivity"
     }
   ]
