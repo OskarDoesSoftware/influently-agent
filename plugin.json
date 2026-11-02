@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "description": "Connect your AI agent to Influently: read your Workspaces, connected accounts, contacts and audit log, and make drafts and tags, through the Influently MCP server.",
   "author": { "name": "Oskar Kalbarczyk", "url": "https://influently.app" },
-  "homepage": "https://influently.app/agent-setup",
+  "homepage": "https://influently.app",
   "repository": "https://github.com/OskarDoesSoftware/influently-agent",
   "license": "MIT",
   "keywords": ["influently", "mcp", "instagram", "tiktok", "youtube", "creators", "automation"],

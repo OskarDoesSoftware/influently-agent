@@ -10,7 +10,7 @@ The MCP server is at `https://use.influently.app/mcp`. The server lists the tool
 - Write tools, one step, listed on the approval page under "Allow changes": find contacts and add or remove contact tags, list media and posting accounts, create and edit post drafts, unschedule a post, list and pause comment automations, create a switched-off draft comment automation, and list flows and create an unpublished flow draft. None of them sends anything to anyone. Drafts stay drafts until a person reviews and turns them on in Influently.
 - Action tools, two steps, listed under "Allow actions on real people and accounts": `send_message`, `send_broadcast`, `schedule_post` (only for a post you already reviewed in Influently) and `resume_automation`.
 
-Full setup guide: https://influently.app/agent-setup
+Agent setup instructions: https://influently.app/agent-setup/prompt.md
 
 ## Install
 
