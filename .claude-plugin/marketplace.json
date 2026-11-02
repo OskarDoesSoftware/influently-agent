@@ -1,0 +1,13 @@
+{
+  "name": "influently",
+  "description": "Official Influently plugin for AI agents",
+  "owner": { "name": "Oskar Kalbarczyk", "url": "https://influently.app" },
+  "plugins": [
+    {
+      "name": "influently",
+      "source": "./",
+      "description": "Skill and MCP server for Influently Workspaces, connected accounts, contacts and audit log",
+      "category": "productivity"
+    }
+  ]
+}

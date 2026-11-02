@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "influently": {
+      "type": "http",
+      "url": "https://use.influently.app/mcp"
+    }
+  }
+}
