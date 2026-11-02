@@ -70,7 +70,7 @@ Then run `opencode mcp auth influently`.
 
 ### Claude app (custom connector)
 
-In Claude, open Settings > Connectors > Add custom connector, and enter `https://use.influently.app/mcp`.
+In Claude, open Customize > Connectors > Add custom connector, and enter `https://use.influently.app/mcp`.
 
 ### Other skills-compatible tools
 
